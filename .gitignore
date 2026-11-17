@@ -1,0 +1,42 @@
+# --- Archivos pesados: viven en Google Drive (ver README) ---
+# Pesos de modelos / checkpoints
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.pb
+finetuned_models/
+my_model_*/
+checkpoints/
+
+# Datasets, fotos de entrenamiento y comprimidos
+corpus/
+space_dataset/
+sample_fotos/
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# Salidas / logs pesados
+project-tensorboard/
+SUMMARY/
+*.tsv
+*.mp4
+*.mov
+
+# --- Entorno ---
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+desktop.ini

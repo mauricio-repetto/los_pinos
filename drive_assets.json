@@ -1,0 +1,20 @@
+{
+  "repo": "los_pinos",
+  "drive_folder": "https://drive.google.com/drive/folders/1yxsWbQybViIU_odRL0vMRxQ_ypYhE-i7",
+  "download": [
+    {
+      "kind": "file",
+      "id": "1jYUDYo9xYOlHEPlrbm1jw0GY46dalM4h",
+      "dest": "notebooks/finding_earth.ipynb",
+      "drive_name": "finding_earth.ipynb",
+      "url": "https://drive.google.com/file/d/1jYUDYo9xYOlHEPlrbm1jw0GY46dalM4h/view"
+    },
+    {
+      "kind": "slides",
+      "id": "11Ge-59hPgyqAJ-GqRbV3PwvzOs0dL_3jjv3Xccx1Uzg",
+      "dest": "slides/taller_vision_por_computadora_los_pinos.pdf",
+      "drive_name": "Taller Vision por Computadora - Los Pinos (Google Slides)",
+      "url": "https://docs.google.com/presentation/d/11Ge-59hPgyqAJ-GqRbV3PwvzOs0dL_3jjv3Xccx1Uzg/edit"
+    }
+  ]
+}
